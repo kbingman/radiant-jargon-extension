@@ -1,0 +1,58 @@
+users: "Benutzter"
+extensions: "Erweitungen"
+preferences: "Preferenzen"
+logout: "Ausloggen"
+
+new_page: "Neue Seite"
+edit_page: "Seite editieren"
+page_title: "Seitentitel"
+add_part: "Seitenteil zufügen"
+
+more: "Mehr"
+less: "Weniger"
+
+page: "Seite"
+pages: "Seiten"
+status: "Status"
+modify: "Ändern"
+no_pages: "Keine Seiten"
+
+layout: "Layout"
+page_type: "Seitentyp"
+published_at: "Publiziert am"
+filter: "Filter"
+reference: "Referenz:"
+
+cancel: "Abbrechen"
+or: "oder"
+
+made_and_powered_by_radiant: "Diese Webseite war mit Ruby und <a href='http://radiantcms.org'>Radiant CMS</a> gemacht."
+version: "Version"
+
+create: "Erstellen"
+save_changes: "Änderungen speichern"
+save_and_continue: "Speichern und weiter bearbeiten"
+
+last_updated: "Zuletzt geändert"
+by: "von"
+at: "um"
+
+delete_pages: "Seiten löschen"
+remove_page: "{pages} löschen"
+are_you_sure_you_want_to_remove_pages: "Sind Sie sicher, dass Sie die folgenden {pages} <strong class='warning'>endgültig</strong> löschen wollen?" 
+
+username: "Benutzer"
+password: "Passwort"
+remember_me: "Eingeloggt bleiben"
+login: "Login"
+please_login: "Bitte Einloggen"
+confirm_password: "Passwort bestätigen"
+
+delete_user: “Benutzer löschen”
+remove_user_warning: "Sind Sie sicher, dass Sie die folgenden Benutzter <strong class='warning'>permanently</strong> löschen wollen?"
+email: "E-mail"
+
+optional: "Optional."
+change_password_info: "Minimum 5."
+roles: "Rollen"
+
