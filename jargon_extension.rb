@@ -49,14 +49,9 @@ class JargonExtension < Radiant::Extension
     admin.tabs.remove "Snippets"
     admin.tabs.add "Snippets", "/admin/snippets", :before => "Layouts", :visibility => [:admin, :developer]
     
-    admin.tabs.remove "Assets"
-    admin.tabs.add "Dateien", "/admin/assets", :after => "Seiten"
-    
     admin.tabs.remove "Layouts"
     admin.tabs.add "Layouts", "/admin/layouts", :after => "Snippets", :visibility => [:admin, :developer]
-    
-    admin.tabs.remove "Settings"
-    admin.tabs.add "Einstellungen", "/admin/settings", :after => "Layouts", :visibility => [:admin, :developer]
+  
   end
   
   def deactivate
